@@ -1,0 +1,75 @@
+.title {
+    border: solid black;
+    margin: 40px;
+    font-family: 'Nerko One', cursive;
+    font-size: 40px; 
+    display:flex;
+    justify-content:center;
+}
+
+.Pictures1 {
+    background-color: yellow;
+    height: 100vh;
+    border: solid black;
+    padding: 20px;
+}
+
+img {
+    max-width: 200px;
+    display: flex;
+    padding: 30px;
+    max-height: 200px;
+}
+
+.Pictures2 {
+    background-color: lightblue;
+    height: 100vh;
+    border: solid black;
+    padding: 20px;
+}
+
+.middleColumn {
+    background-color: lightgray;
+    border: solid black;
+    padding: 10px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: stretch;
+}
+
+.one {
+    padding: 20px;
+    border: solid black;
+    margin: 20px;
+}
+
+
+.two {
+    padding: 20px;
+    border: solid black;
+    margin: 20px;
+}
+
+.NavBar{
+	display:flex;
+    justify-content:space-around;
+    background-color:lightgreen;
+    margin: 10px;
+    padding: 10px;
+}
+
+.green-child {
+    background-color: pink;
+}
+
+.blue-child {
+    background-color: lightblue;
+}
+
+.teal-child {
+    background-color: #00FFCC;
+}
